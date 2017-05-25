@@ -1,0 +1,125 @@
+- name: 'active learning literature survey'
+  author: 'b settles'
+  year: 2010
+  categories: ['active learning']
+  filename: 'settles.activelearning.pdf'
+  citation:
+      count: 2211
+      from: 1995
+      to: 2017
+- name: 'deep learning in neural networks: an overview'
+  author: 'j schmidhuber'
+  year: 2015
+  categories: ['deep learning']
+  citation:
+      count: 1338
+      from: 2015
+      to: 2017
+- name: 'regret analysis of stochastic and nonstochastic multi-armed bandit problems'
+  author: 's bubeck, n cesa-bianchi'
+  year: 2012
+  categories: ['multi-armed bandit']
+  citation:
+      count: 638
+      from: 2012
+      to: 2017
+- name: 'reinforcement learning: a survey'
+  author: 'lp kaelbling, ml littman, aw moore'
+  year: 1996
+  categories: ['reinforcement learning']
+  citation:
+      count: 5828
+      from: 1996
+      to: 2017
+- name: 'reinforcement learning: an introduction'
+  author: 'rs sutton, ag barto'
+  year: 2016
+  categories: ['reinforcement learning']
+  book: true
+  citation:
+      count: 24005
+      from: 1996
+      to: 2017
+- name: 'deep learning'
+  author: 'ij goodfellow, y bengio, a courville'
+  year: 2016
+  categories: ['deep learning']
+  book: true
+  citation:
+      count: 450
+      from: 2016
+      to: 2017
+
+- name: 'a survey of online experiment design with the stochastic multi-armed bandit'
+  author: 'g burtini, j loeppky, r lawrence'
+  year: 2015
+  categories: ['multi-armed bandit']
+  citation:
+      count: 6
+      from: 2015
+      to: 2017
+- name: 'semi-supervised learning literature survey'
+  author: 'x zhu'
+  year: 2008
+  categories: ['semi-supervised learning']
+  citation:
+      count: 6
+      from: 2005
+      to: 2017
+- name: 'machine learning in automated text categorization'
+  author: 'f sebastiani'
+  year: 2002
+  categories: ['natural language processing']
+  citation:
+      count: 8018
+      from: 2002
+      to: 2017
+- name: 'transfer learning for reinforcement learning domains: a survey'
+  author: 'me taylor, p stone taylor'
+  year: 2009
+  categories: ['transfer learning']
+  citation:
+      count: 531
+      from: 2009
+      to: 2017
+- name: 'a survey on transfer learning'
+  author: 'sj pan, q yang'
+  year: 2010
+  categories: ['transfer learning', 'variational inference']
+  citation:
+      count: 2831
+      from: 2010
+      to: 2017
+
+- name: 'graphical models, exponential families, and variational inference'
+  author: 'mj wainwright, mi jordan'
+  year: 2008
+  categories: ['graphical models']
+  citation:
+      count: 2356
+      from: 2008
+      to: 2017
+- name: 'learning deep architectures for ai'
+  author: 'y bengio'
+  year: 2009
+  categories: ['deep learning']
+  citation:
+      count: 3836
+      from: 2009
+      to: 2017
+- name: 'survey of clustering algorithms'
+  author: 'r xu, d wunsch'
+  year: 2005
+  categories: ['clustering']
+  citation:
+      count: 4272
+      from: 2005
+      to: 2017
+- name: 'reinforcement learning in robotics: a survey'
+  author: 'j kober, ja bagnell, j peterskober'
+  year: 2013
+  categories: ['robotics', 'reinforcement learning']
+  citation:
+      count: 348
+      from: 2013
+      to: 2017

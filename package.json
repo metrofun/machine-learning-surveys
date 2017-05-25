@@ -1,0 +1,24 @@
+{
+  "name": "machine-learning-surveys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrofun/machine-learning-surveys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metrofun/machine-learning-surveys/issues"
+  },
+  "homepage": "https://github.com/metrofun/machine-learning-surveys#readme",
+  "dependencies": {
+    "js-yaml": "^3.8.4",
+    "lodash": "^4.17.4",
+    "titlecase": "^1.1.2"
+  }
+}
