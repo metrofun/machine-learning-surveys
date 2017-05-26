@@ -1,5 +1,9 @@
 # Machine Learning Surveys
 
+A curated list of Machine Learning related surveys, overviews and books.
+
+If you want to contribute to this list (please do), send me a pull request or contact me [@MeTroFuN](https://twitter.com/MeTroFuN).
+
 ## Table of Contents
 
 - [Active Learning](#active-learning)
