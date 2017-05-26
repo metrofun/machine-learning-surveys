@@ -140,3 +140,12 @@
       count: 246
       from: 2004
       to: 2017
+- name: 'A survey of robot learning from demonstration'
+  author: 'bd argall, s chernova, m veloso'
+  year: 2009
+  categories: ['robotics']
+  citation:
+      count: 1408
+      from: 2009
+      to: 2017
+

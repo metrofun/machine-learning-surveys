@@ -56,6 +56,7 @@
 
 ### Robotics
 
+* [A Survey of Robot Learning From Demonstration](https://scholar.google.com/scholar?q=%22A%20Survey%20of%20Robot%20Learning%20From%20Demonstration%22%20author%3A%22bd%20argall%22 "bd argall, s chernova, m veloso") [bd argall, s chernova, m veloso] [2009]  ⭐
 * [Reinforcement Learning in Robotics: A Survey](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%20in%20Robotics%3A%20A%20Survey%22%20author%3A%22j%20kober%22 "j kober, ja bagnell, j peterskober") [j kober, ja bagnell, j peterskober] [2013]  
 
 ### Semi-Supervised Learning
