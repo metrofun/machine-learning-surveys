@@ -12,9 +12,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [Computer Vision](#computer-vision)
 - [Deep Learning](#deep-learning)
 - [Ensemble Learning](#ensemble-learning)
-- [Graphical Models](#graphical-models)
 - [Multi-Armed Bandit](#multi-armed-bandit)
 - [Natural Language Processing](#natural-language-processing)
+- [Probabilistic Models](#probabilistic-models)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)
 - [Semi-Supervised Learning](#semi-supervised-learning)
@@ -56,10 +56,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Ensemble Methods: Foundations and Algorithms](https://scholar.google.com/scholar?q=%22Ensemble%20Methods%3A%20Foundations%20and%20Algorithms%22%20author%3A%22zh%20zhou%22%202012 "zh zhou") [zh zhou] [2012]  
 
-### Graphical Models
-
-* [Graphical Models, Exponential Families, and Variational Inference](https://scholar.google.com/scholar?q=%22Graphical%20Models%2C%20Exponential%20Families%2C%20and%20Variational%20Inference%22%20author%3A%22mj%20wainwright%22%202008 "mj wainwright, mi jordan") [mj wainwright, mi jordan] [2008]  ⭐
-
 ### Multi-Armed Bandit
 
 * [Regret Analysis of Stochastic and Nonstochastic Multi-Armed Bandit Problems](https://scholar.google.com/scholar?q=%22Regret%20Analysis%20of%20Stochastic%20and%20Nonstochastic%20Multi-Armed%20Bandit%20Problems%22%20author%3A%22s%20bubeck%22%202012 "s bubeck, n cesa-bianchi") [s bubeck, n cesa-bianchi] [2012]  ⭐
@@ -69,6 +65,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Machine Learning in Automated Text Categorization](https://scholar.google.com/scholar?q=%22Machine%20Learning%20in%20Automated%20Text%20Categorization%22%20author%3A%22f%20sebastiani%22%202002 "f sebastiani") [f sebastiani] [2002]  ⭐
 * [Natural Language Processing (Almost) From Scratch](https://scholar.google.com/scholar?q=%22Natural%20Language%20Processing%20%28Almost%29%20From%20Scratch%22%20author%3A%22r%20collobert%22%202011 "r collobert") [r collobert] [2011]  ⭐
+
+### Probabilistic Models
+
+* [Graphical Models, Exponential Families, and Variational Inference](https://scholar.google.com/scholar?q=%22Graphical%20Models%2C%20Exponential%20Families%2C%20and%20Variational%20Inference%22%20author%3A%22mj%20wainwright%22%202008 "mj wainwright, mi jordan") [mj wainwright, mi jordan] [2008]  ⭐
+* [An Introduction to Conditional Random Fields for Relational Learning](https://scholar.google.com/scholar?q=%22An%20Introduction%20to%20Conditional%20Random%20Fields%20for%20Relational%20Learning%22%20author%3A%22c%20sutton%22%202006 "c sutton") [c sutton] [2006]  
+* [An Introduction to Conditional Random Fields](https://scholar.google.com/scholar?q=%22An%20Introduction%20to%20Conditional%20Random%20Fields%22%20author%3A%22c%20sutton%22%202011 "c sutton") [c sutton] [2011]  
 
 ### Reinforcement Learning
 

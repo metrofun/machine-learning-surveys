@@ -94,7 +94,7 @@
 - name: 'graphical models, exponential families, and variational inference'
   author: 'mj wainwright, mi jordan'
   year: 2008
-  categories: ['graphical models']
+  categories: ['probabilistic models']
   citation:
       count: 2356
       from: 2008
@@ -247,4 +247,20 @@
   citation:
       count: 513
       from: 2012
+      to: 2017
+- name: 'an introduction to conditional random fields'
+  author: 'c sutton'
+  year: 2011
+  categories: ['probabilistic models']
+  citation:
+      count: 368
+      from: 2011
+      to: 2017
+- name: 'an introduction to conditional random fields for relational learning'
+  author: 'c sutton'
+  year: 2006
+  categories: ['probabilistic models']
+  citation:
+      count: 993
+      from: 2006
       to: 2017
