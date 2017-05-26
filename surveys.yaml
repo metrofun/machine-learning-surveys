@@ -157,7 +157,7 @@
       from: 2015
       to: 2017
 - name: 'object tracking: a survey'
-  author: 'm ghavamzadeh, s mannor, j pineau'
+  author: 'a yilmaz'
   year: 2006
   categories: ['computer vision']
   citation:
@@ -171,5 +171,74 @@
   book: true
   citation:
       count: 2697
+      from: 2010
+      to: 2017
+- name: 'a survey of appearance models in visual object tracking'
+  author: 'x li'
+  year: 2013
+  categories: ['computer vision']
+  citation:
+      count: 343
+      from: 2013
+      to: 2017
+- name: 'Monocular Model-Based 3D Tracking of Rigid Objects: A Survey'
+  author: 'V Lepetit'
+  year: 2005
+  categories: ['computer vision']
+  citation:
+      count: 659
+      from: 2005
+      to: 2017
+- name: 'A review of feature selection techniques in bioinformatics'
+  author: 'Y Saeys, I Inza, P Larrañaga'
+  year: 2007
+  categories: ['bioinformatics']
+  citation:
+      count: 2702
+      from: 2007
+      to: 2017
+- name: 'Data clustering: theory, algorithms, and applications'
+  author: 'G Gan, C Ma, J Wu'
+  year: 2007
+  book: true
+  categories: ['clustering']
+  citation:
+      count: 1180
+      from: 2007
+      to: 2017
+- name: 'Handbook of Blind Source Separation: Independent component analysis and applications'
+  author: 'P Comon, C Jutten'
+  year: 2010
+  book: true
+  categories: ['clustering']
+  citation:
+      count: 1003
+      from: 2010
+      to: 2017
+- name: 'Clustering'
+  author: 'R Xu, D Wunsch'
+  year: 2008
+  book: true
+  categories: ['clustering']
+  citation:
+      count: 831
+      from: 2008
+      to: 2017
+- name: 'Natural Language Processing (Almost) from Scratch'
+  author: 'R Collobert'
+  year: 2011
+  book: true
+  categories: ['natural language processing']
+  citation:
+      count: 1943
+      from: 2011
+      to: 2017
+- name: 'Data clustering: 50 years beyond K-means'
+  author: 'AK Jain'
+  year: 2010
+  book: true
+  categories: ['clustering']
+  citation:
+      count: 3394
       from: 2010
       to: 2017

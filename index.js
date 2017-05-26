@@ -33,17 +33,18 @@ let data = _.flow(
 )(surveys);
 
 function searchUrl(survey) {
-    let name = survey.name;
-    let author = survey.author;
+    let { name, author, year} = survey;
 
-    return `${SEARCH_DOMAIN}/scholar?q=${encodeURIComponent(`"${name}" author:"${author.split(',')[0]}"`)}`;
+    return `${SEARCH_DOMAIN}/scholar?q=${encodeURIComponent(
+        `"${name}" author:"${author.split(',')[0]}" ${year}`
+    )}`;
 }
 
 function awesomeness(survey) {
     let { count, from, to} = survey.citation;
     let citationPerAnnum = count / (to - from + 1);
 
-    return _.repeat(Math.round(citationPerAnnum).toString().length - 2, '⭐');
+    return _.repeat(Math.round(citationPerAnnum).toString().length - 1, '⭐');
 }
 
 let compiled = _.template(fs.readFileSync(TEMPLATE_PATH));
