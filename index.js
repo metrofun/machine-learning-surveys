@@ -35,16 +35,17 @@ let data = _.flow(
 function searchUrl(survey) {
     let { name, author, year} = survey;
 
+    // We need to escape "(" and ")" in urls for markdown.
     return `${SEARCH_DOMAIN}/scholar?q=${encodeURIComponent(
         `"${name}" author:"${author.split(',')[0]}" ${year}`
-    )}`;
+    ).replace(/\(/g, "%28").replace(/\)/g, "%29")}`;
 }
 
 function awesomeness(survey) {
     let { count, from, to} = survey.citation;
     let citationPerAnnum = count / (to - from + 1);
 
-    return _.repeat(Math.round(citationPerAnnum).toString().length - 1, '⭐');
+    return _.repeat(Math.round(citationPerAnnum).toString().length - 2, '⭐');
 }
 
 let compiled = _.template(fs.readFileSync(TEMPLATE_PATH));

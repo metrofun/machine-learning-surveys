@@ -181,24 +181,24 @@
       count: 343
       from: 2013
       to: 2017
-- name: 'Monocular Model-Based 3D Tracking of Rigid Objects: A Survey'
-  author: 'V Lepetit'
+- name: 'monocular model-based 3d tracking of rigid objects: a survey'
+  author: 'v lepetit'
   year: 2005
   categories: ['computer vision']
   citation:
       count: 659
       from: 2005
       to: 2017
-- name: 'A review of feature selection techniques in bioinformatics'
-  author: 'Y Saeys, I Inza, P Larrañaga'
+- name: 'a review of feature selection techniques in bioinformatics'
+  author: 'y saeys, i inza, p larrañaga'
   year: 2007
   categories: ['bioinformatics']
   citation:
       count: 2702
       from: 2007
       to: 2017
-- name: 'Data clustering: theory, algorithms, and applications'
-  author: 'G Gan, C Ma, J Wu'
+- name: 'data clustering: theory, algorithms, and applications'
+  author: 'g gan, c ma, j wu'
   year: 2007
   book: true
   categories: ['clustering']
@@ -206,8 +206,8 @@
       count: 1180
       from: 2007
       to: 2017
-- name: 'Handbook of Blind Source Separation: Independent component analysis and applications'
-  author: 'P Comon, C Jutten'
+- name: 'handbook of blind source separation: independent component analysis and applications'
+  author: 'p comon, c jutten'
   year: 2010
   book: true
   categories: ['clustering']
@@ -215,8 +215,8 @@
       count: 1003
       from: 2010
       to: 2017
-- name: 'Clustering'
-  author: 'R Xu, D Wunsch'
+- name: 'clustering'
+  author: 'r xu, d wunsch'
   year: 2008
   book: true
   categories: ['clustering']
@@ -224,21 +224,27 @@
       count: 831
       from: 2008
       to: 2017
-- name: 'Natural Language Processing (Almost) from Scratch'
-  author: 'R Collobert'
+- name: 'natural language processing (almost) from scratch'
+  author: 'r collobert'
   year: 2011
-  book: true
   categories: ['natural language processing']
   citation:
       count: 1943
       from: 2011
       to: 2017
-- name: 'Data clustering: 50 years beyond K-means'
-  author: 'AK Jain'
+- name: 'data clustering: 50 years beyond k-means'
+  author: 'ak jain'
   year: 2010
-  book: true
   categories: ['clustering']
   citation:
       count: 3394
       from: 2010
+      to: 2017
+- name: 'ensemble methods: foundations and algorithms'
+  author: 'zh zhou'
+  year: 2012
+  categories: ['ensemble learning']
+  citation:
+      count: 513
+      from: 2012
       to: 2017
