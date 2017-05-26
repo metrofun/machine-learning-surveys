@@ -5,7 +5,7 @@
 <% _(data).keys().each((letter) => {
     _(data[letter]).keys().each((category) => {%><%=
 
-`- [${category}](#${category.split(' ').join('-')})\n`
+`- [${category}](#${category.split(' ').join('-').toLowerCase()})\n`
 
     %><% });
 });%>

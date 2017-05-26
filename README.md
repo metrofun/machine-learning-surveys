@@ -2,18 +2,18 @@
 
 ## Table of Contents
 
-- [Active Learning](#Active-Learning)
-- [Bioinformatics](#Bioinformatics)
-- [Clustering](#Clustering)
-- [Deep Learning](#Deep-Learning)
-- [Graphical Models](#Graphical-Models)
-- [Multi-Armed Bandit](#Multi-Armed-Bandit)
-- [Natural Language Processing](#Natural-Language-Processing)
-- [Reinforcement Learning](#Reinforcement-Learning)
-- [Robotics](#Robotics)
-- [Semi-Supervised Learning](#Semi-Supervised-Learning)
-- [Transfer Learning](#Transfer-Learning)
-- [Variational Inference](#Variational-Inference)
+- [Active Learning](#active-learning)
+- [Bioinformatics](#bioinformatics)
+- [Clustering](#clustering)
+- [Deep Learning](#deep-learning)
+- [Graphical Models](#graphical-models)
+- [Multi-Armed Bandit](#multi-armed-bandit)
+- [Natural Language Processing](#natural-language-processing)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Robotics](#robotics)
+- [Semi-Supervised Learning](#semi-supervised-learning)
+- [Transfer Learning](#transfer-learning)
+- [Variational Inference](#variational-inference)
 
 
 ### Active Learning
