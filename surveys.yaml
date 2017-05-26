@@ -85,7 +85,7 @@
 - name: 'a survey on transfer learning'
   author: 'sj pan, q yang'
   year: 2010
-  categories: ['transfer learning', 'variational inference']
+  categories: ['transfer learning']
   citation:
       count: 2831
       from: 2010
@@ -123,8 +123,8 @@
       count: 348
       from: 2013
       to: 2017
-- name: 'Introduction to bioinformatics'
-  author: 'A Lesk'
+- name: 'introduction to bioinformatics'
+  author: 'a lesk'
   year: 2013
   categories: ['bioinformatics']
   book: true
@@ -132,15 +132,15 @@
       count: 630
       from: 2002
       to: 2017
-- name: 'Bioinformatics - An Introduction for Computer Scientists   '
-  author: 'J Cohen'
+- name: 'bioinformatics - an introduction for computer scientists'
+  author: 'j cohen'
   year: 2004
   categories: ['bioinformatics']
   citation:
       count: 246
       from: 2004
       to: 2017
-- name: 'A survey of robot learning from demonstration'
+- name: 'a survey of robot learning from demonstration'
   author: 'bd argall, s chernova, m veloso'
   year: 2009
   categories: ['robotics']
@@ -148,4 +148,28 @@
       count: 1408
       from: 2009
       to: 2017
-
+- name: 'bayesian reinforcement learning: a survey'
+  author: 'm ghavamzadeh, s mannor, j pineau'
+  year: 2016
+  categories: ['reinforcement learning']
+  citation:
+      count: 11
+      from: 2015
+      to: 2017
+- name: 'object tracking: a survey'
+  author: 'm ghavamzadeh, s mannor, j pineau'
+  year: 2006
+  categories: ['computer vision']
+  citation:
+      count: 4651
+      from: 2006
+      to: 2017
+- name: 'computer vision: algorithms and applications'
+  author: 'r szeliski'
+  year: 2010
+  categories: ['computer vision']
+  book: true
+  citation:
+      count: 2697
+      from: 2010
+      to: 2017

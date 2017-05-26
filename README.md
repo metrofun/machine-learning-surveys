@@ -5,6 +5,7 @@
 - [Active Learning](#active-learning)
 - [Bioinformatics](#bioinformatics)
 - [Clustering](#clustering)
+- [Computer Vision](#computer-vision)
 - [Deep Learning](#deep-learning)
 - [Graphical Models](#graphical-models)
 - [Multi-Armed Bandit](#multi-armed-bandit)
@@ -13,7 +14,6 @@
 - [Robotics](#robotics)
 - [Semi-Supervised Learning](#semi-supervised-learning)
 - [Transfer Learning](#transfer-learning)
-- [Variational Inference](#variational-inference)
 
 
 ### Active Learning
@@ -22,12 +22,17 @@
 
 ### Bioinformatics
 
-* [Introduction to Bioinformatics](https://scholar.google.com/scholar?q=%22Introduction%20to%20Bioinformatics%22%20author%3A%22A%20Lesk%22 "A Lesk") [A Lesk] [2013]  📚 
-* [Bioinformatics - an Introduction for Computer Scientists   ](https://scholar.google.com/scholar?q=%22Bioinformatics%20-%20an%20Introduction%20for%20Computer%20Scientists%20%20%20%22%20author%3A%22J%20Cohen%22 "J Cohen") [J Cohen] [2004]  
+* [Introduction to Bioinformatics](https://scholar.google.com/scholar?q=%22Introduction%20to%20Bioinformatics%22%20author%3A%22a%20lesk%22 "a lesk") [a lesk] [2013]  📚 
+* [Bioinformatics - an Introduction for Computer Scientists](https://scholar.google.com/scholar?q=%22Bioinformatics%20-%20an%20Introduction%20for%20Computer%20Scientists%22%20author%3A%22j%20cohen%22 "j cohen") [j cohen] [2004]  
 
 ### Clustering
 
 * [Survey of Clustering Algorithms](https://scholar.google.com/scholar?q=%22Survey%20of%20Clustering%20Algorithms%22%20author%3A%22r%20xu%22 "r xu, d wunsch") [r xu, d wunsch] [2005]  ⭐
+
+### Computer Vision
+
+* [Object Tracking: A Survey](https://scholar.google.com/scholar?q=%22Object%20Tracking%3A%20A%20Survey%22%20author%3A%22m%20ghavamzadeh%22 "m ghavamzadeh, s mannor, j pineau") [m ghavamzadeh, s mannor, j pineau] [2006]  ⭐
+* [Computer Vision: Algorithms and Applications](https://scholar.google.com/scholar?q=%22Computer%20Vision%3A%20Algorithms%20and%20Applications%22%20author%3A%22r%20szeliski%22 "r szeliski") [r szeliski] [2010]  📚 ⭐
 
 ### Deep Learning
 
@@ -53,6 +58,7 @@
 * [Reinforcement Learning: An Introduction](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%3A%20An%20Introduction%22%20author%3A%22rs%20sutton%22 "rs sutton, ag barto") [rs sutton, ag barto] [2016]  📚 ⭐⭐
 * [Reinforcement Learning: A Survey](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%3A%20A%20Survey%22%20author%3A%22lp%20kaelbling%22 "lp kaelbling, ml littman, aw moore") [lp kaelbling, ml littman, aw moore] [1996]  ⭐
 * [Reinforcement Learning in Robotics: A Survey](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%20in%20Robotics%3A%20A%20Survey%22%20author%3A%22j%20kober%22 "j kober, ja bagnell, j peterskober") [j kober, ja bagnell, j peterskober] [2013]  
+* [Bayesian Reinforcement Learning: A Survey](https://scholar.google.com/scholar?q=%22Bayesian%20Reinforcement%20Learning%3A%20A%20Survey%22%20author%3A%22m%20ghavamzadeh%22 "m ghavamzadeh, s mannor, j pineau") [m ghavamzadeh, s mannor, j pineau] [2016]  
 
 ### Robotics
 
@@ -67,8 +73,4 @@
 
 * [A Survey on Transfer Learning](https://scholar.google.com/scholar?q=%22A%20Survey%20on%20Transfer%20Learning%22%20author%3A%22sj%20pan%22 "sj pan, q yang") [sj pan, q yang] [2010]  ⭐
 * [Transfer Learning for Reinforcement Learning Domains: A Survey](https://scholar.google.com/scholar?q=%22Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains%3A%20A%20Survey%22%20author%3A%22me%20taylor%22 "me taylor, p stone taylor") [me taylor, p stone taylor] [2009]  
-
-### Variational Inference
-
-* [A Survey on Transfer Learning](https://scholar.google.com/scholar?q=%22A%20Survey%20on%20Transfer%20Learning%22%20author%3A%22sj%20pan%22 "sj pan, q yang") [sj pan, q yang] [2010]  ⭐
 
