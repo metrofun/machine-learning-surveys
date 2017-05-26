@@ -123,3 +123,20 @@
       count: 348
       from: 2013
       to: 2017
+- name: 'Introduction to bioinformatics'
+  author: 'A Lesk'
+  year: 2013
+  categories: ['bioinformatics']
+  book: true
+  citation:
+      count: 630
+      from: 2002
+      to: 2017
+- name: 'Bioinformatics - An Introduction for Computer Scientists   '
+  author: 'J Cohen'
+  year: 2004
+  categories: ['bioinformatics']
+  citation:
+      count: 246
+      from: 2004
+      to: 2017

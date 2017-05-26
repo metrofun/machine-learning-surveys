@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Active Learning](#Active-Learning)
+- [Bioinformatics](#Bioinformatics)
 - [Clustering](#Clustering)
 - [Deep Learning](#Deep-Learning)
 - [Graphical Models](#Graphical-Models)
@@ -18,6 +19,11 @@
 ### Active Learning
 
 * [Active Learning Literature Survey](https://scholar.google.com/scholar?q=%22Active%20Learning%20Literature%20Survey%22%20author%3A%22b%20settles%22 "b settles") [b settles] [2010]  
+
+### Bioinformatics
+
+* [Introduction to Bioinformatics](https://scholar.google.com/scholar?q=%22Introduction%20to%20Bioinformatics%22%20author%3A%22A%20Lesk%22 "A Lesk") [A Lesk] [2013]  📚 
+* [Bioinformatics - an Introduction for Computer Scientists   ](https://scholar.google.com/scholar?q=%22Bioinformatics%20-%20an%20Introduction%20for%20Computer%20Scientists%20%20%20%22%20author%3A%22J%20Cohen%22 "J Cohen") [J Cohen] [2004]  
 
 ### Clustering
 
