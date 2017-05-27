@@ -12,7 +12,7 @@ let surveys = yaml.safeLoad(fs.readFileSync(SURVEYS_PATH));
 
 let data = _.flow(
     // Sort surveys by citation per year.
-    _.sortBy(o => -o.citation.count / (o.citation.to - o.citation.from + 1)),
+    _.orderBy(awesomeness, 'desc'),
     // Correctly camel-case authors and titles.
     _.forEach(o => {
         o.name = toTitleCase(o.name);
@@ -33,20 +33,22 @@ let data = _.flow(
 )(surveys);
 
 function searchUrl(survey) {
-    let { name, author, year} = survey;
+    let { name, author, citation} = survey;
 
     // We need to escape "(" and ")" in urls for markdown.
     return `${SEARCH_DOMAIN}/scholar?q=${encodeURIComponent(
-        `"${name}" author:"${author.split(',')[0]}" ${year}`
+        `"${name}" author:"${author.split(',')[0]}"`
     ).replace(/\(/g, "%28").replace(/\)/g, "%29")}`;
 }
 
 function awesomeness(survey) {
-    let { count, from, to} = survey.citation;
-    let citationPerAnnum = count / (to - from + 1);
+	let { count, from, to} = survey.citation;
+    return count / Math.pow(to - from + 1, 2) * 2;
+}
 
-    return _.repeat(Math.round(citationPerAnnum).toString().length - 2, '⭐');
+function rating(survey) {
+    return _.repeat(Math.round(awesomeness(survey)).toString().length - 1, '⭐');
 }
 
 let compiled = _.template(fs.readFileSync(TEMPLATE_PATH));
-fs.writeFileSync(OUTPUT_PATH, compiled({ data,  searchUrl, awesomeness}));
+fs.writeFileSync(OUTPUT_PATH, compiled({ data,  searchUrl, rating}));

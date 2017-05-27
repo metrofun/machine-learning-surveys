@@ -21,7 +21,7 @@ If you want to contribute to this list (please do), send me a pull request or co
         %><%_(data[letter][category]).each((survey) => {%><%=
 
 `* [${survey.name}](${searchUrl(survey)} "${survey.author}")\
- [${survey.author}] [${survey.year}] ${survey.book ? ' 📚':''} ${awesomeness(survey)}\n`
+ [${survey.author}] [${survey.year}] ${survey.book ? ' 📚':''} ${rating(survey)}\n`
 
         %><% });
     });

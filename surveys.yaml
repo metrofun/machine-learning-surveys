@@ -272,8 +272,8 @@
       count: 213
       from: 2012
       to: 2017
-- name: 'Statistical machine translation'
-  author: 'P Koehn'
+- name: 'statistical machine translation'
+  author: 'p koehn'
   year: 2009
   book: true
   categories: ['natural language processing']
@@ -281,19 +281,172 @@
       count: 1001
       from: 2007
       to: 2017
-- name: 'Ensemble approaches for regression: A survey'
+- name: 'ensemble approaches for regression: a survey'
   author: 'a krause, d golovin'
   year: 2012
-  categories: ['ensemble learning', 'regression']
+  categories: ['ensemble learning']
   citation:
       count: 118
       from: 2012
       to: 2017
-- name: 'Statistical machine translation'
-  author: 'A Lopez'
+- name: 'statistical machine translation'
+  author: 'a lopez'
   year: 2008
   categories: ['natural language processing']
   citation:
       count: 321
       from: 2008
+      to: 2017
+- name: 'head pose estimation in computer vision: a survey'
+  author: 'e murphy-chutorian, mm trivedi'
+  year: 2009
+  categories: ['computer vision']
+  citation:
+      count: 1047
+      from: 2009
+      to: 2017
+- name: 'a survey of recent advances in face detection'
+  author: 'c zhang, z zhang'
+  year: 2010
+  categories: ['computer vision']
+  citation:
+      count: 532
+      from: 2010
+      to: 2017
+- name: 'a survey on face detection in the wild: past, present and future'
+  author: 's zafeiriou, c zhang, z zhang'
+  year: 2015
+  categories: ['computer vision']
+  citation:
+      count: 69
+      from: 2010
+      to: 2017
+- name: 'progress and challenges in protein structure prediction'
+  author: 'y zhang '
+  year: 2008
+  categories: ['bioinformatics']
+  citation:
+      count: 435
+      from: 2008
+      to: 2017
+- name: 'supervised machine learning: a review of classification techniques'
+  author: 'sb kotsiantis, i zaharakis, p pintelas'
+  year: 2007
+  categories: ['classification']
+  citation:
+      count: 1786
+      from: 2007
+      to: 2017
+- name: 'A tutorial on spectral clustering'
+  author: 'U Von Luxburg'
+  year: 2007
+  categories: ['clustering']
+  citation:
+      count: 4706
+      from: 2007
+      to: 2017
+- name: 'A survey of clustering data mining techniques'
+  author: 'P Berkhin'
+  year: 2006
+  categories: ['clustering']
+  citation:
+      count: 2772
+      from: 2006
+      to: 2017
+- name: 'Pedestrian detection: An evaluation of the state of the art'
+  author: 'P Dollar, C Wojek, B Schiele'
+  year: 2012
+  categories: ['computer vision']
+  citation:
+      count: 1393
+      from: 2012
+      to: 2017
+- name: 'Dimensionality reduction: a comparative'
+  author: 'L Van Der Maaten, E Postma'
+  year: 2009
+  categories: ['Dimensionality reduction']
+  citation:
+      count: 1273
+      from: 2009
+      to: 2017
+- name: 'Dimension reduction: A guided tour'
+  author: 'CJC Burges'
+  year: 2010
+  categories: ['Dimensionality reduction']
+  citation:
+      count: 158
+      from: 2010
+      to: 2017
+- name: 'Machine transliteration survey'
+  author: 'S Karimi, F Scholer, A Turpin'
+  year: 2011
+  categories: ['natural language processing']
+  citation:
+      count: 53
+      from: 2011
+      to: 2017
+- name: 'Probabilistic topic models'
+  author: 'DM Blei'
+  year: 2012
+  categories: ['natural language processing']
+  citation:
+      count: 1726
+      from: 2012
+      to: 2017
+- name: 'Opinion mining and sentiment analysis'
+  author: 'B Pang, L Lee'
+  year: 2008
+  categories: ['natural language processing']
+  citation:
+      count: 5907
+      from: 2008
+      to: 2017
+- name: 'Opinion mining and sentiment analysis'
+  author: 'B Liu, L Zhang'
+  year: 2012
+  categories: ['natural language processing']
+  citation:
+      count: 459
+      from: 2012
+      to: 2017
+- name: 'An introduction to MCMC for machine learning'
+  author: 'C Andrieu, N De Freitas, A Doucet, MI Jordan'
+  year: 2003
+  categories: ['probabilistic models']
+  citation:
+      count: 1699
+      from: 2003
+      to: 2017
+- name: 'Introduction to recommender systems handbook'
+  author: 'F Ricci, L Rokach, B Shapira'
+  book: true
+  year: 2011
+  categories: ['recommender systems']
+  citation:
+      count: 2525
+      from: 2011
+      to: 2017
+- name: 'Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions'
+  author: 'G Adomavicius, A Tuzhilin'
+  year: 2008
+  categories: ['recommender systems']
+  citation:
+      count: 8192
+      from: 2008
+      to: 2017
+- name: 'A survey of collaborative filtering techniques'
+  author: 'X Su, TM Khoshgoftaar'
+  year: 2009
+  categories: ['recommender systems']
+  citation:
+      count: 2123
+      from: 2009
+      to: 2017
+- name: 'Matrix factorization techniques for recommender systems'
+  author: 'Y Koren, R Bell, C Volinsky'
+  year: 2009
+  categories: ['recommender systems']
+  citation:
+      count: 3310
+      from: 2009
       to: 2017
