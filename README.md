@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ### Classification
 
 * [Supervised Machine Learning: A Review of Classification Techniques](https://scholar.google.com/scholar?q=%22Supervised%20Machine%20Learning%3A%20A%20Review%20of%20Classification%20Techniques%22%20author%3A%22sb%20kotsiantis%22 "sb kotsiantis, i zaharakis, p pintelas") [sb kotsiantis, i zaharakis, p pintelas] [2007]  ⭐
+* [Web Page Classification: Features and Algorithms](https://scholar.google.com/scholar?q=%22Web%20Page%20Classification%3A%20Features%20and%20Algorithms%22%20author%3A%22X%20Qi%22 "X Qi, BD Davison") [X Qi, BD Davison] [2009]  ⭐
 
 ### Clustering
 

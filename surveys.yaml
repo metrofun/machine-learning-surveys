@@ -450,3 +450,11 @@
       count: 3310
       from: 2009
       to: 2017
+- name: 'Web page classification: Features and algorithms'
+  author: 'X Qi, BD Davison'
+  year: 2009
+  categories: ['classification']
+  citation:
+      count: 458
+      from: 2009
+      to: 2017
