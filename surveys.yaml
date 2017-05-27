@@ -264,3 +264,36 @@
       count: 993
       from: 2006
       to: 2017
+- name: 'submodular function maximization'
+  author: 'a krause, d golovin'
+  year: 2012
+  categories: ['submodular function']
+  citation:
+      count: 213
+      from: 2012
+      to: 2017
+- name: 'Statistical machine translation'
+  author: 'P Koehn'
+  year: 2009
+  book: true
+  categories: ['natural language processing']
+  citation:
+      count: 1001
+      from: 2007
+      to: 2017
+- name: 'Ensemble approaches for regression: A survey'
+  author: 'a krause, d golovin'
+  year: 2012
+  categories: ['ensemble learning', 'regression']
+  citation:
+      count: 118
+      from: 2012
+      to: 2017
+- name: 'Statistical machine translation'
+  author: 'A Lopez'
+  year: 2008
+  categories: ['natural language processing']
+  citation:
+      count: 321
+      from: 2008
+      to: 2017
