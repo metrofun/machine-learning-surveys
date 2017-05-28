@@ -20,8 +20,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
         %><%_(data[letter][category]).each((survey) => {%><%=
 
-`* [${survey.name}](${searchUrl(survey)} "${survey.author}")\
- [${survey.author}] [${survey.year}] ${survey.book ? ' 📚':''} ${rating(survey)}\n`
+`* [${survey.name}](${searchUrl(survey)} "${survey.author}") (${survey.year})
+[${survey.author}] [${survey.pages}pp] ${survey.book ? ' 📚':''} ${rating(survey)}\n`
 
         %><% });
     });

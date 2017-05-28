@@ -3,6 +3,7 @@
   year: 2010
   categories: ['active learning']
   filename: 'settles.activelearning.pdf'
+  pages: 67
   citation:
       count: 2211
       from: 1995
@@ -11,6 +12,7 @@
   author: 'j schmidhuber'
   year: 2015
   categories: ['deep learning']
+  pages: 88
   citation:
       count: 1338
       from: 2015
@@ -19,6 +21,7 @@
   author: 's bubeck, n cesa-bianchi'
   year: 2012
   categories: ['multi-armed bandit']
+  pages: 130
   citation:
       count: 638
       from: 2012
@@ -27,6 +30,7 @@
   author: 'lp kaelbling, ml littman, aw moore'
   year: 1996
   categories: ['reinforcement learning']
+  pages: 49
   citation:
       count: 5828
       from: 1996
@@ -36,6 +40,7 @@
   year: 2016
   categories: ['reinforcement learning']
   book: true
+  pages: 398
   citation:
       count: 24005
       from: 1996
@@ -45,6 +50,7 @@
   year: 2016
   categories: ['deep learning']
   book: true
+  pages: 800
   citation:
       count: 450
       from: 2016
@@ -54,6 +60,7 @@
   author: 'g burtini, j loeppky, r lawrence'
   year: 2015
   categories: ['multi-armed bandit']
+  pages: 49
   citation:
       count: 6
       from: 2015
@@ -62,6 +69,7 @@
   author: 'x zhu'
   year: 2008
   categories: ['semi-supervised learning']
+  pages: 59
   citation:
       count: 6
       from: 2005
@@ -70,14 +78,16 @@
   author: 'f sebastiani'
   year: 2002
   categories: ['natural language processing']
+  pages: 55
   citation:
       count: 8018
       from: 2002
       to: 2017
 - name: 'transfer learning for reinforcement learning domains: a survey'
-  author: 'me taylor, p stone taylor'
+  author: 'me taylor, p stone'
   year: 2009
   categories: ['transfer learning']
+  pages: 53
   citation:
       count: 531
       from: 2009
@@ -86,6 +96,7 @@
   author: 'sj pan, q yang'
   year: 2010
   categories: ['transfer learning']
+  pages: 15
   citation:
       count: 2831
       from: 2010
@@ -95,6 +106,7 @@
   author: 'mj wainwright, mi jordan'
   year: 2008
   categories: ['probabilistic models']
+  pages: 305
   citation:
       count: 2356
       from: 2008
@@ -103,6 +115,7 @@
   author: 'y bengio'
   year: 2009
   categories: ['deep learning']
+  pages: 71
   citation:
       count: 3836
       from: 2009
@@ -111,6 +124,7 @@
   author: 'r xu, d wunsch'
   year: 2005
   categories: ['clustering']
+  pages: 34
   citation:
       count: 4272
       from: 2005
@@ -119,6 +133,7 @@
   author: 'j kober, ja bagnell, j peterskober'
   year: 2013
   categories: ['robotics', 'reinforcement learning']
+  pages: 74
   citation:
       count: 348
       from: 2013
@@ -128,6 +143,7 @@
   year: 2013
   categories: ['bioinformatics']
   book: true
+  pages: 255
   citation:
       count: 630
       from: 2002
@@ -136,6 +152,7 @@
   author: 'j cohen'
   year: 2004
   categories: ['bioinformatics']
+  pages: 37
   citation:
       count: 246
       from: 2004
@@ -144,6 +161,7 @@
   author: 'bd argall, s chernova, m veloso'
   year: 2009
   categories: ['robotics']
+  pages: 15
   citation:
       count: 1408
       from: 2009
@@ -152,6 +170,7 @@
   author: 'm ghavamzadeh, s mannor, j pineau'
   year: 2016
   categories: ['reinforcement learning']
+  pages: 147
   citation:
       count: 11
       from: 2015
@@ -160,6 +179,7 @@
   author: 'a yilmaz'
   year: 2006
   categories: ['computer vision']
+  pages: 45
   citation:
       count: 4651
       from: 2006
@@ -169,6 +189,7 @@
   year: 2010
   categories: ['computer vision']
   book: true
+  pages: 874
   citation:
       count: 2697
       from: 2010
@@ -177,6 +198,7 @@
   author: 'x li'
   year: 2013
   categories: ['computer vision']
+  pages: 42
   citation:
       count: 343
       from: 2013
@@ -185,6 +207,7 @@
   author: 'v lepetit'
   year: 2005
   categories: ['computer vision']
+  pages: 91
   citation:
       count: 659
       from: 2005
@@ -193,23 +216,16 @@
   author: 'y saeys, i inza, p larrañaga'
   year: 2007
   categories: ['bioinformatics']
+  pages: 10
   citation:
       count: 2702
-      from: 2007
-      to: 2017
-- name: 'data clustering: theory, algorithms, and applications'
-  author: 'g gan, c ma, j wu'
-  year: 2007
-  book: true
-  categories: ['clustering']
-  citation:
-      count: 1180
       from: 2007
       to: 2017
 - name: 'handbook of blind source separation: independent component analysis and applications'
   author: 'p comon, c jutten'
   year: 2010
   book: true
+  pages: 65
   categories: ['clustering']
   citation:
       count: 1003
@@ -220,6 +236,7 @@
   year: 2008
   book: true
   categories: ['clustering']
+  pages: 341
   citation:
       count: 831
       from: 2008
@@ -228,6 +245,7 @@
   author: 'r collobert'
   year: 2011
   categories: ['natural language processing']
+  pages: 45
   citation:
       count: 1943
       from: 2011
@@ -236,6 +254,7 @@
   author: 'ak jain'
   year: 2010
   categories: ['clustering']
+  pages: 16
   citation:
       count: 3394
       from: 2010
@@ -244,6 +263,7 @@
   author: 'zh zhou'
   year: 2012
   categories: ['ensemble learning']
+  pages: 234
   citation:
       count: 513
       from: 2012
@@ -252,6 +272,7 @@
   author: 'c sutton'
   year: 2011
   categories: ['probabilistic models']
+  pages: 90
   citation:
       count: 368
       from: 2011
@@ -260,6 +281,7 @@
   author: 'c sutton'
   year: 2006
   categories: ['probabilistic models']
+  pages: 35
   citation:
       count: 993
       from: 2006
@@ -267,7 +289,8 @@
 - name: 'submodular function maximization'
   author: 'a krause, d golovin'
   year: 2012
-  categories: ['submodular function']
+  categories: ['submodular functions']
+  pages: 28
   citation:
       count: 213
       from: 2012
@@ -277,14 +300,16 @@
   year: 2009
   book: true
   categories: ['natural language processing']
+  pages: 149
   citation:
       count: 1001
       from: 2007
       to: 2017
 - name: 'ensemble approaches for regression: a survey'
-  author: 'a krause, d golovin'
+  author: 'J Mendes-Moreira, C Soares, AM Jorge'
   year: 2012
   categories: ['ensemble learning']
+  pages: 40
   citation:
       count: 118
       from: 2012
@@ -293,6 +318,7 @@
   author: 'a lopez'
   year: 2008
   categories: ['natural language processing']
+  pages: 55
   citation:
       count: 321
       from: 2008
@@ -301,6 +327,7 @@
   author: 'e murphy-chutorian, mm trivedi'
   year: 2009
   categories: ['computer vision']
+  pages: 20
   citation:
       count: 1047
       from: 2009
@@ -309,6 +336,7 @@
   author: 'c zhang, z zhang'
   year: 2010
   categories: ['computer vision']
+  pages: 17
   citation:
       count: 532
       from: 2010
@@ -317,144 +345,199 @@
   author: 's zafeiriou, c zhang, z zhang'
   year: 2015
   categories: ['computer vision']
+  pages: 50
   citation:
       count: 69
       from: 2010
-      to: 2017
-- name: 'progress and challenges in protein structure prediction'
-  author: 'y zhang '
-  year: 2008
-  categories: ['bioinformatics']
-  citation:
-      count: 435
-      from: 2008
       to: 2017
 - name: 'supervised machine learning: a review of classification techniques'
   author: 'sb kotsiantis, i zaharakis, p pintelas'
   year: 2007
   categories: ['classification']
+  pages: 20
   citation:
       count: 1786
       from: 2007
       to: 2017
-- name: 'A tutorial on spectral clustering'
-  author: 'U Von Luxburg'
+- name: 'a tutorial on spectral clustering'
+  author: 'u von luxburg'
   year: 2007
+  pages: 32
   categories: ['clustering']
   citation:
       count: 4706
       from: 2007
       to: 2017
-- name: 'A survey of clustering data mining techniques'
-  author: 'P Berkhin'
+- name: 'a survey of clustering data mining techniques'
+  author: 'p berkhin'
   year: 2006
   categories: ['clustering']
+  pages: 56
   citation:
       count: 2772
       from: 2006
       to: 2017
-- name: 'Pedestrian detection: An evaluation of the state of the art'
-  author: 'P Dollar, C Wojek, B Schiele'
+- name: 'pedestrian detection: an evaluation of the state of the art'
+  author: 'p dollar, c wojek, b schiele'
   year: 2012
+  pages: 19
   categories: ['computer vision']
   citation:
       count: 1393
       from: 2012
       to: 2017
-- name: 'Dimensionality reduction: a comparative'
-  author: 'L Van Der Maaten, E Postma'
+- name: 'dimensionality reduction: a comparative review'
+  author: 'l van der maaten, e postma'
   year: 2009
-  categories: ['Dimensionality reduction']
+  categories: ['dimensionality reduction']
+  pages: 36
   citation:
       count: 1273
       from: 2009
       to: 2017
-- name: 'Dimension reduction: A guided tour'
-  author: 'CJC Burges'
+- name: 'dimension reduction: a guided tour'
+  author: 'cjc burges'
   year: 2010
-  categories: ['Dimensionality reduction']
+  categories: ['dimensionality reduction']
+  pages: 64
   citation:
       count: 158
       from: 2010
       to: 2017
-- name: 'Machine transliteration survey'
-  author: 'S Karimi, F Scholer, A Turpin'
+- name: 'machine transliteration survey'
+  author: 's karimi, f scholer, a turpin'
   year: 2011
   categories: ['natural language processing']
+  pages: 46
   citation:
       count: 53
       from: 2011
       to: 2017
-- name: 'Probabilistic topic models'
-  author: 'DM Blei'
+- name: 'probabilistic topic models'
+  author: 'dm blei'
   year: 2012
   categories: ['natural language processing']
+  pages: 16
   citation:
       count: 1726
       from: 2012
       to: 2017
-- name: 'Opinion mining and sentiment analysis'
-  author: 'B Pang, L Lee'
+- name: 'opinion mining and sentiment analysis'
+  author: 'b pang, l lee'
   year: 2008
   categories: ['natural language processing']
+  pages: 94
   citation:
       count: 5907
       from: 2008
       to: 2017
-- name: 'Opinion mining and sentiment analysis'
-  author: 'B Liu, L Zhang'
+- name: 'opinion mining and sentiment analysis'
+  author: 'b liu, l zhang'
   year: 2012
   categories: ['natural language processing']
+  pages: 38
   citation:
       count: 459
       from: 2012
       to: 2017
-- name: 'An introduction to MCMC for machine learning'
-  author: 'C Andrieu, N De Freitas, A Doucet, MI Jordan'
+- name: 'an introduction to mcmc for machine learning'
+  author: 'c andrieu, n de freitas, a doucet, mi jordan'
   year: 2003
+  pages: 39
   categories: ['probabilistic models']
   citation:
       count: 1699
       from: 2003
       to: 2017
-- name: 'Introduction to recommender systems handbook'
-  author: 'F Ricci, L Rokach, B Shapira'
+- name: 'introduction to recommender systems handbook'
+  author: 'f ricci, l rokach, b shapira'
   book: true
   year: 2011
   categories: ['recommender systems']
+  pages: 845
   citation:
       count: 2525
       from: 2011
       to: 2017
-- name: 'Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions'
-  author: 'G Adomavicius, A Tuzhilin'
+- name: 'toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions'
+  author: 'g adomavicius, a tuzhilin'
   year: 2008
   categories: ['recommender systems']
+  pages: 43
   citation:
       count: 8192
       from: 2008
       to: 2017
-- name: 'A survey of collaborative filtering techniques'
-  author: 'X Su, TM Khoshgoftaar'
+- name: 'a survey of collaborative filtering techniques'
+  author: 'x su, tm khoshgoftaar'
   year: 2009
   categories: ['recommender systems']
+  pages: 20
   citation:
       count: 2123
       from: 2009
       to: 2017
-- name: 'Matrix factorization techniques for recommender systems'
-  author: 'Y Koren, R Bell, C Volinsky'
+- name: 'matrix factorization techniques for recommender systems'
+  author: 'y koren, r bell, c volinsky'
   year: 2009
   categories: ['recommender systems']
+  pages: 8
   citation:
       count: 3310
       from: 2009
       to: 2017
-- name: 'Web page classification: Features and algorithms'
-  author: 'X Qi, BD Davison'
+- name: 'web page classification: features and algorithms'
+  author: 'x qi, bd davison'
   year: 2009
   categories: ['classification']
+  pages: 31
   citation:
       count: 458
       from: 2009
+      to: 2017
+- name: 'jumping nlp curves: a review of natural language processing research'
+  author: 'e cambria, b white'
+  year: 2014
+  categories: ['natural language processing']
+  pages: 10
+  citation:
+      count: 229
+      from: 2014
+      to: 2017
+- name: 'introduction to probability models'
+  author: 'sm ross'
+  year: 2014
+  book: true
+  categories: ['probabilistic models']
+  pages: 801
+  citation:
+      count: 7398
+      from: 1972
+      to: 2017
+- name: 'a survey on multi-view learning'
+  author: 'c xu'
+  year: 2013
+  categories: ['multi-view learning']
+  pages: 59
+  citation:
+      count: 210
+      from: 2013
+      to: 2017
+- name: 'a survey of multi-view machine learning'
+  author: 's sun'
+  year: 2013
+  categories: ['multi-view learning']
+  pages: 13
+  citation:
+      count: 199
+      from: 2013
+      to: 2017
+- name: 'learning with submodular functions: a convex optimization perspective'
+  author: 'f bach'
+  year: 2013
+  categories: ['submodular functions']
+  pages: 173
+  citation:
+      count: 166
+      from: 2013
       to: 2017

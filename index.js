@@ -15,6 +15,7 @@ let data = _.flow(
     _.orderBy(awesomeness, 'desc'),
     // Correctly camel-case authors and titles.
     _.forEach(o => {
+		o.author = toGoogleAuthorCase(o.author);
         o.name = toTitleCase(o.name);
     }),
     // One-to-many grouping by category.
@@ -43,11 +44,21 @@ function searchUrl(survey) {
 
 function awesomeness(survey) {
 	let { count, from, to} = survey.citation;
-    return count / Math.pow(to - from + 1, 3) * 5;
+    return count / Math.pow(to - from + 1, 3) * 3;
 }
 
 function rating(survey) {
     return _.repeat(Math.round(awesomeness(survey)).toString().length - 1, '⭐');
+}
+
+function toGoogleAuthorCase(authors) {
+    return authors.split(',').map(author => {
+        let parts = author.split(' ');
+        return _.initial(parts)
+            .map(_.upperCase)
+            .concat(_.capitalize(_.last(parts)))
+            .join(' ')
+    }).join(',');
 }
 
 let compiled = _.template(fs.readFileSync(TEMPLATE_PATH));
