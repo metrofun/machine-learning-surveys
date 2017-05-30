@@ -45,7 +45,7 @@ function searchUrl(survey) {
 
 function awesomeness(survey) {
     let { count, from, to} = survey.citation;
-    return count / Math.pow(to - from + 1, 2) * 2;
+    return count / (Math.pow(to - from, 3) + 1) * 2
 }
 
 function rating(survey) {

@@ -223,15 +223,6 @@
       count: 659
       from: 2005
       to: 2017
-- name: 'a review of feature selection techniques in bioinformatics'
-  author: 'y saeys, i inza, p larrañaga'
-  year: 2007
-  categories: ['bioinformatics']
-  pages: 10
-  citation:
-      count: 2702
-      from: 2007
-      to: 2017
 - name: 'handbook of blind source separation: independent component analysis and applications'
   author: 'p comon, c jutten'
   year: 2010
