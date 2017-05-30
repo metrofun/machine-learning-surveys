@@ -1,8 +1,19 @@
+# PLEASE READ BEFORE EDITING.
+#
+# Every entry consists of the following fields:
+# name: Lowercase title
+# author: Lowercase author names in Google Scholar format.
+# year: Year when the paper was last time updated.
+# categories: List of lowercase topics. Please consider fitting it into existing categories when possible.
+# pages: Numbers of pages.
+# citation
+# citation.count Google Scholar Citations Count.
+# citation.from When was the paper/book first published.
+# citation.to Year when you checked the citation count.
 - name: 'active learning literature survey'
   author: 'b settles'
   year: 2010
   categories: ['active learning']
-  filename: 'settles.activelearning.pdf'
   pages: 67
   citation:
       count: 2211

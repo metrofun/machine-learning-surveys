@@ -1,3 +1,7 @@
+<!--
+    This is an auto-generated file. Please check "How to Contribute" wiki
+    here: https://github.com/metrofun/machine-learning-surveys/wiki/How-to-Contribute
+-->
 # Machine Learning Surveys
 
 A curated list of Machine Learning related surveys, overviews and books.

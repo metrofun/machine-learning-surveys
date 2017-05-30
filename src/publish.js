@@ -1,11 +1,12 @@
 const _  = require('lodash/fp');
 const fs = require('fs');
+const path = require('path');
 const yaml = require('js-yaml');
 const toTitleCase = require('titlecase');
 
-const TEMPLATE_PATH = 'README.template.md';
-const OUTPUT_PATH = 'README.md';
-const SURVEYS_PATH = 'surveys.yaml';
+const TEMPLATE_PATH = path.join(__dirname, 'README.template.md');
+const OUTPUT_PATH = path.join(__dirname, '..', 'README.md');
+const SURVEYS_PATH = path.join(__dirname, 'published.yaml');
 const SEARCH_DOMAIN = 'https://scholar.google.com';
 
 let surveys = yaml.safeLoad(fs.readFileSync(SURVEYS_PATH));
@@ -15,7 +16,7 @@ let data = _.flow(
     _.orderBy(awesomeness, 'desc'),
     // Correctly camel-case authors and titles.
     _.forEach(o => {
-		o.author = toGoogleAuthorCase(o.author);
+        o.author = toGoogleAuthorCase(o.author);
         o.name = toTitleCase(o.name);
     }),
     // One-to-many grouping by category.
@@ -43,7 +44,7 @@ function searchUrl(survey) {
 }
 
 function awesomeness(survey) {
-	let { count, from, to} = survey.citation;
+    let { count, from, to} = survey.citation;
     return count / Math.pow(to - from + 1, 2) * 2;
 }
 
