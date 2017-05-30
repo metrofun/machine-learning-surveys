@@ -541,3 +541,12 @@
       count: 166
       from: 2013
       to: 2017
+- name: 'Deep Reinforcement Learning: An Overview'
+  author: ' Y Li'
+  year: 2017
+  categories: ['reinforcement learning', 'deep learning']
+  pages: 30
+  citation:
+      count: 4
+      from: 2017
+      to: 2017
