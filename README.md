@@ -165,6 +165,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ### Reinforcement Learning
 
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274 "Yuxi Li") (2017)
+[Yixi Li] [30pp]
 * [Reinforcement Learning in Robotics: A Survey](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%20in%20Robotics%3A%20A%20Survey%22%20author%3A%22J%20Kober%22 "J Kober, JA Bagnell, J Peterskober") (2013)
 [J Kober, JA Bagnell, J Peterskober] [74pp]  
 * [Reinforcement Learning: An Introduction](https://scholar.google.com/scholar?q=%22Reinforcement%20Learning%3A%20An%20Introduction%22%20author%3A%22RS%20Sutton%22 "RS Sutton, AG Barto") (2016)
