@@ -28,6 +28,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 - [Semi-Supervised Learning](#semi-supervised-learning)
 - [Submodular Functions](#submodular-functions)
 - [Transfer Learning](#transfer-learning)
+- [Unsupervised Learning](#unsupervised-learning)
 
 
 ### Active Learning
@@ -91,8 +92,12 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [J Schmidhuber] [88pp]  ⭐⭐
 * [Learning Deep Architectures for Ai](https://scholar.google.com/scholar?q=%22Learning%20Deep%20Architectures%20for%20Ai%22%20author%3A%22Y%20Bengio%22 "Y Bengio") (2009)
 [Y Bengio] [71pp]  ⭐
+* [Tutorial on Variational Autoencoders](https://scholar.google.com/scholar?q=%22Tutorial%20on%20Variational%20Autoencoders%22%20author%3A%22C%20Doersch%22 "C Doersch") (2016)
+[C Doersch] [65pp]  ⭐
 * [Deep Reinforcement Learning: An Overview](https://scholar.google.com/scholar?q=%22Deep%20Reinforcement%20Learning%3A%20An%20Overview%22%20author%3A%22%20Y%20Li%22 " Y Li") (2017)
 [ Y Li] [30pp]  
+* [NIPS 2016 Tutorial: Generative Adversarial Networks](https://scholar.google.com/scholar?q=%22NIPS%202016%20Tutorial%3A%20Generative%20Adversarial%20Networks%22%20author%3A%22I%20Goodfellow%22 "I Goodfellow") (2016)
+[I Goodfellow] [57pp]  
 
 ### Dimensionality Reduction
 
@@ -144,6 +149,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [A Lopez] [55pp]  
 * [Machine Transliteration Survey](https://scholar.google.com/scholar?q=%22Machine%20Transliteration%20Survey%22%20author%3A%22S%20Karimi%22 "S Karimi, F Scholer, A Turpin") (2011)
 [S Karimi, F Scholer, A Turpin] [46pp]  
+* [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22GRAHAM%20Neubig%22 "GRAHAM Neubig") (2017)
+[GRAHAM Neubig] [57pp]  
 
 ### Probabilistic Models
 
@@ -207,4 +214,9 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [SJ Pan, Q Yang] [15pp]  ⭐
 * [Transfer Learning for Reinforcement Learning Domains: A Survey](https://scholar.google.com/scholar?q=%22Transfer%20Learning%20for%20Reinforcement%20Learning%20Domains%3A%20A%20Survey%22%20author%3A%22ME%20Taylor%22 "ME Taylor, P Stone") (2009)
 [ME Taylor, P Stone] [53pp]  
+
+### Unsupervised Learning
+
+* [Tutorial on Variational Autoencoders](https://scholar.google.com/scholar?q=%22Tutorial%20on%20Variational%20Autoencoders%22%20author%3A%22C%20Doersch%22 "C Doersch") (2016)
+[C Doersch] [65pp]  ⭐
 

@@ -561,3 +561,30 @@
       count: 75
       from: 2016
       to: 2017
+- name: 'Tutorial on Variational Autoencoders'
+  author: 'C Doersch'
+  year: 2016
+  categories: ['unsupervised learning', 'deep learning']
+  pages: 65
+  citation:
+      count: 11
+      from: 2016
+      to: 2017
+- name: 'NIPS 2016 Tutorial: Generative Adversarial Networks'
+  author: 'I Goodfellow'
+  year: 2016
+  categories: ['deep learning']
+  pages: 57
+  citation:
+      count: 5
+      from: 2016
+      to: 2017
+- name: 'Neural Machine Translation and Sequence-to-sequence Models: A Tutorial'
+  author: 'Graham Neubig'
+  year: 2017
+  categories: ['natural language processing']
+  pages: 57
+  citation:
+      count: 0
+      from: 2016
+      to: 2017
