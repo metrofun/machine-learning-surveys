@@ -571,7 +571,7 @@
       from: 2016
       to: 2017
 - name: 'Neural Machine Translation and Sequence-to-sequence Models: A Tutorial'
-  author: 'Graham Neubig'
+  author: 'G Neubig'
   year: 2017
   categories: ['natural language processing']
   pages: 57
