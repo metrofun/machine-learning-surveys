@@ -41,6 +41,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [A Lesk] [255pp]  📚 
 * [Bioinformatics - an Introduction for Computer Scientists](https://scholar.google.com/scholar?q=%22Bioinformatics%20-%20an%20Introduction%20for%20Computer%20Scientists%22%20author%3A%22J%20Cohen%22 "J Cohen") (2004)
 [J Cohen] [37pp]  
+* [Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) (2017) [27 authors] [102 pages]
 
 ### Classification
 
