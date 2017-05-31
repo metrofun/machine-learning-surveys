@@ -124,6 +124,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 
 ### Natural Language Processing
 
+* [A Primer on Neural Network Models for Natural Language Processing](https://scholar.google.com/scholar?q=%22A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing%22%20author%3A%22Y%20Goldberg%22 "Y Goldberg") (2016)
+[Y Goldberg] [76pp]  ⭐
 * [Probabilistic Topic Models](https://scholar.google.com/scholar?q=%22Probabilistic%20Topic%20Models%22%20author%3A%22DM%20Blei%22 "DM Blei") (2012)
 [DM Blei] [16pp]  ⭐
 * [Natural Language Processing (Almost) From Scratch](https://scholar.google.com/scholar?q=%22Natural%20Language%20Processing%20%28Almost%29%20From%20Scratch%22%20author%3A%22R%20Collobert%22 "R Collobert") (2011)

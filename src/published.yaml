@@ -308,7 +308,7 @@
       from: 2007
       to: 2017
 - name: 'ensemble approaches for regression: a survey'
-  author: 'J Mendes-Moreira, C Soares, AM Jorge'
+  author: 'j mendes-moreira, c soares, am jorge'
   year: 2012
   categories: ['ensemble learning']
   pages: 40
@@ -543,12 +543,21 @@
       count: 166
       from: 2013
       to: 2017
-- name: 'Deep Reinforcement Learning: An Overview'
-  author: ' Y Li'
+- name: 'deep reinforcement learning: an overview'
+  author: ' y li'
   year: 2017
   categories: ['reinforcement learning', 'deep learning']
   pages: 30
   citation:
       count: 4
       from: 2017
+      to: 2017
+- name: 'a primer on neural network models for natural language processing'
+  author: 'y goldberg'
+  year: 2016
+  categories: ['natural language processing']
+  pages: 76
+  citation:
+      count: 75
+      from: 2016
       to: 2017
