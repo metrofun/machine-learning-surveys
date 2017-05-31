@@ -497,15 +497,6 @@
       count: 458
       from: 2009
       to: 2017
-- name: 'jumping nlp curves: a review of natural language processing research'
-  author: 'e cambria, b white'
-  year: 2014
-  categories: ['natural language processing']
-  pages: 10
-  citation:
-      count: 229
-      from: 2014
-      to: 2017
 - name: 'introduction to probability models'
   author: 'sm ross'
   year: 2014

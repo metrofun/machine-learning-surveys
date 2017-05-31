@@ -135,8 +135,6 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [DM Blei] [16pp]  ⭐
 * [Natural Language Processing (Almost) From Scratch](https://scholar.google.com/scholar?q=%22Natural%20Language%20Processing%20%28Almost%29%20From%20Scratch%22%20author%3A%22R%20Collobert%22 "R Collobert") (2011)
 [R Collobert] [45pp]  ⭐
-* [Jumping Nlp Curves: A Review of Natural Language Processing Research](https://scholar.google.com/scholar?q=%22Jumping%20Nlp%20Curves%3A%20A%20Review%20of%20Natural%20Language%20Processing%20Research%22%20author%3A%22E%20Cambria%22 "E Cambria, B White") (2014)
-[E Cambria, B White] [10pp]  ⭐
 * [Opinion Mining and Sentiment Analysis](https://scholar.google.com/scholar?q=%22Opinion%20Mining%20and%20Sentiment%20Analysis%22%20author%3A%22B%20Pang%22 "B Pang, L Lee") (2008)
 [B Pang, L Lee] [94pp]  ⭐
 * [Opinion Mining and Sentiment Analysis](https://scholar.google.com/scholar?q=%22Opinion%20Mining%20and%20Sentiment%20Analysis%22%20author%3A%22B%20Liu%22 "B Liu, L Zhang") (2012)
