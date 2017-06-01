@@ -4,9 +4,9 @@
 -->
 # Machine Learning Surveys
 
-A curated list of Machine Learning related surveys, overviews and books.
+A curated list of Machine Learning related Surveys, Overviews and Books.
 
-If you want to contribute to this list (please do), check [How to Contribute](https://github.com/metrofun/machine-learning-surveys/wiki/How-to-Contribute-a-Paper) wiki or contact me [@MeTroFuN](https://twitter.com/MeTroFuN).
+If you want to contribute to this list (please do!), check [How to Contribute](https://github.com/metrofun/machine-learning-surveys/wiki/How-to-Contribute-a-Paper) wiki or contact me [@MeTroFuN](https://twitter.com/MeTroFuN).
 
 ## Table of Contents
 
