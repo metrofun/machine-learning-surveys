@@ -147,8 +147,8 @@ If you want to contribute to this list (please do!), check [How to Contribute](h
 [A Lopez] [55pp]  
 * [Machine Transliteration Survey](https://scholar.google.com/scholar?q=%22Machine%20Transliteration%20Survey%22%20author%3A%22S%20Karimi%22 "S Karimi, F Scholer, A Turpin") (2011)
 [S Karimi, F Scholer, A Turpin] [46pp]  
-* [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22GRAHAM%20Neubig%22 "GRAHAM Neubig") (2017)
-[GRAHAM Neubig] [57pp]  
+* [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22G%20Neubig%22 "G Neubig") (2017)
+[G Neubig] [57pp]  
 
 ### Probabilistic Models
 
