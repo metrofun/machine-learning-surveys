@@ -4,9 +4,9 @@
 -->
 # Machine Learning Surveys
 
-A curated list of Machine Learning related Surveys, Overviews and Books.
+A curated list of Machine Learning related surveys, overviews and books.
 
-If you want to contribute to this list (please do!), check [How to Contribute](https://github.com/metrofun/machine-learning-surveys/wiki/How-to-Contribute-a-Paper) wiki or contact me [@MeTroFuN](https://twitter.com/MeTroFuN).
+If you want to contribute to this list (please do), check [How to Contribute](https://github.com/metrofun/machine-learning-surveys/wiki/How-to-Contribute-a-Paper) wiki or contact me [@MeTroFuN](https://twitter.com/MeTroFuN).
 
 ## Table of Contents
 
@@ -42,7 +42,8 @@ If you want to contribute to this list (please do!), check [How to Contribute](h
 [A Lesk] [255pp]  📚 
 * [Bioinformatics - an Introduction for Computer Scientists](https://scholar.google.com/scholar?q=%22Bioinformatics%20-%20an%20Introduction%20for%20Computer%20Scientists%22%20author%3A%22J%20Cohen%22 "J Cohen") (2004)
 [J Cohen] [37pp]  
-* [Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) (2017) [27 authors] [102 pages]
+* [Opportunities and Obstacles for Deep Learning in Biology and Medicine](https://scholar.google.com/scholar?q=%22Opportunities%20and%20Obstacles%20for%20Deep%20Learning%20in%20Biology%20and%20Medicine%22%20author%3A%22T%20Ching%22 "T Ching, DS Himmelstein, BK Beaulieu-jones") (2017)
+[T Ching, DS Himmelstein, BK Beaulieu-jones] [102pp]  
 
 ### Classification
 
@@ -99,6 +100,8 @@ If you want to contribute to this list (please do!), check [How to Contribute](h
 [ Y Li] [30pp]  
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://scholar.google.com/scholar?q=%22NIPS%202016%20Tutorial%3A%20Generative%20Adversarial%20Networks%22%20author%3A%22I%20Goodfellow%22 "I Goodfellow") (2016)
 [I Goodfellow] [57pp]  
+* [Opportunities and Obstacles for Deep Learning in Biology and Medicine](https://scholar.google.com/scholar?q=%22Opportunities%20and%20Obstacles%20for%20Deep%20Learning%20in%20Biology%20and%20Medicine%22%20author%3A%22T%20Ching%22 "T Ching, DS Himmelstein, BK Beaulieu-jones") (2017)
+[T Ching, DS Himmelstein, BK Beaulieu-jones] [102pp]  
 
 ### Dimensionality Reduction
 

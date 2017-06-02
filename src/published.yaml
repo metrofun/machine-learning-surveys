@@ -579,3 +579,12 @@
       count: 0
       from: 2016
       to: 2017
+- name: 'Opportunities and obstacles for deep learning in biology and medicine'
+  author: 'T Ching, DS Himmelstein, BK Beaulieu-Jones'
+  year: 2017
+  categories: ['bioinformatics', 'deep learning']
+  pages: 102
+  citation:
+      count: 0
+      from: 2017
+      to: 2017
