@@ -18,6 +18,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 - [Deep Learning](#deep-learning)
 - [Dimensionality Reduction](#dimensionality-reduction)
 - [Ensemble Learning](#ensemble-learning)
+- [Metric Learning](#metric-learning)
 - [Multi-Armed Bandit](#multi-armed-bandit)
 - [Multi-View Learning](#multi-view-learning)
 - [Natural Language Processing](#natural-language-processing)
@@ -116,6 +117,13 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [ZH Zhou] [234pp]  
 * [Ensemble Approaches for Regression: A Survey](https://scholar.google.com/scholar?q=%22Ensemble%20Approaches%20for%20Regression%3A%20A%20Survey%22%20author%3A%22J%20Mendes-moreira%22 "J Mendes-moreira, C Soares, AM Jorge") (2012)
 [J Mendes-moreira, C Soares, AM Jorge] [40pp]  
+
+### Metric Learning
+
+* [A Survey on Metric Learning for Feature Vectors and Structured Data](https://scholar.google.com/scholar?q=%22A%20Survey%20on%20Metric%20Learning%20for%20Feature%20Vectors%20and%20Structured%20Data%22%20author%3A%22A%20Bellet%22 "A Bellet") (2014)
+[A Bellet] [59pp]  
+* [Metric Learning: A Survey](https://scholar.google.com/scholar?q=%22Metric%20Learning%3A%20A%20Survey%22%20author%3A%22B%20Kulis%22 "B Kulis") (2012)
+[B Kulis] [80pp]  
 
 ### Multi-Armed Bandit
 

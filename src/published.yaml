@@ -588,3 +588,21 @@
       count: 0
       from: 2017
       to: 2017
+- name: 'A Survey on Metric Learning for Feature Vectors and Structured Data'
+  author: 'A Bellet'
+  year: 2014
+  categories: ['metric learning']
+  pages: 59
+  citation:
+      count: 249
+      from: 2013
+      to: 2017
+- name: 'Metric Learning: A Survey'
+  author: 'B Kulis'
+  year: 2012
+  categories: ['metric learning']
+  pages: 80
+  citation:
+      count: 80
+      from: 2012
+      to: 2017
