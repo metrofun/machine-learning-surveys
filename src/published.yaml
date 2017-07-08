@@ -606,3 +606,13 @@
       count: 80
       from: 2012
       to: 2017
+
+- name: 'A Review on Deep Learning Techniques Applied to Semantic Segmentation'
+  author: 'A Garcia-Garcia, S Orts-Escolano'
+  year: 2017
+  categories: ['computer vision', 'deep learning']
+  pages: 23
+  citation:
+      count: 0
+      from: 2017
+      to: 2017

@@ -86,6 +86,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [V Lepetit] [91pp]  
 * [A Survey on Face Detection in the Wild: Past, Present and Future](https://scholar.google.com/scholar?q=%22A%20Survey%20on%20Face%20Detection%20in%20the%20Wild%3A%20Past%2C%20Present%20and%20Future%22%20author%3A%22S%20Zafeiriou%22 "S Zafeiriou, C Zhang, Z Zhang") (2015)
 [S Zafeiriou, C Zhang, Z Zhang] [50pp]  
+* [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://scholar.google.com/scholar?q=%22A%20Review%20on%20Deep%20Learning%20Techniques%20Applied%20to%20Semantic%20Segmentation%22%20author%3A%22A%20Garcia-garcia%22 "A Garcia-garcia, S Orts-escolano") (2017)
+[A Garcia-garcia, S Orts-escolano] [23pp]  
 
 ### Deep Learning
 
@@ -103,6 +105,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [I Goodfellow] [57pp]  
 * [Opportunities and Obstacles for Deep Learning in Biology and Medicine](https://scholar.google.com/scholar?q=%22Opportunities%20and%20Obstacles%20for%20Deep%20Learning%20in%20Biology%20and%20Medicine%22%20author%3A%22T%20Ching%22 "T Ching, DS Himmelstein, BK Beaulieu-jones") (2017)
 [T Ching, DS Himmelstein, BK Beaulieu-jones] [102pp]  
+* [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://scholar.google.com/scholar?q=%22A%20Review%20on%20Deep%20Learning%20Techniques%20Applied%20to%20Semantic%20Segmentation%22%20author%3A%22A%20Garcia-garcia%22 "A Garcia-garcia, S Orts-escolano") (2017)
+[A Garcia-garcia, S Orts-escolano] [23pp]  
 
 ### Dimensionality Reduction
 
