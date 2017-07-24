@@ -616,3 +616,12 @@
       count: 0
       from: 2017
       to: 2017
+- name: 'A Tutorial on Thompson Sampling'
+  author: 'D Russo, B Van Roy, A Kazerouni, I Osband'
+  year: 2017
+  categories: ['multi-armed bandit']
+  pages: 39
+  citation:
+      count: 0
+      from: 2017
+      to: 2017

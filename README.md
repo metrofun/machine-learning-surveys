@@ -135,6 +135,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [S Bubeck, N Cesa-bianchi] [130pp]  ⭐
 * [A Survey of Online Experiment Design With the Stochastic Multi-Armed Bandit](https://scholar.google.com/scholar?q=%22A%20Survey%20of%20Online%20Experiment%20Design%20With%20the%20Stochastic%20Multi-Armed%20Bandit%22%20author%3A%22G%20Burtini%22 "G Burtini, J Loeppky, R Lawrence") (2015)
 [G Burtini, J Loeppky, R Lawrence] [49pp]  
+* [A Tutorial on Thompson Sampling](https://scholar.google.com/scholar?q=%22A%20Tutorial%20on%20Thompson%20Sampling%22%20author%3A%22D%20Russo%22 "D Russo, B VAN Roy, A Kazerouni, I Osband") (2017)
+[D Russo, B VAN Roy, A Kazerouni, I Osband] [39pp]  
 
 ### Multi-View Learning
 
