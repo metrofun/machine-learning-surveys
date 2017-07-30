@@ -625,3 +625,12 @@
       count: 0
       from: 2017
       to: 2017
+- name: 'Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art'
+  author: 'D Russo, B Van Roy, A Kazerouni, I Osband'
+  year: 2017
+  categories: ['computer vision']
+  pages: 67
+  citation:
+      count: 0
+      from: 2017
+      to: 2017

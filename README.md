@@ -88,6 +88,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [S Zafeiriou, C Zhang, Z Zhang] [50pp]  
 * [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://scholar.google.com/scholar?q=%22A%20Review%20on%20Deep%20Learning%20Techniques%20Applied%20to%20Semantic%20Segmentation%22%20author%3A%22A%20Garcia-garcia%22 "A Garcia-garcia, S Orts-escolano") (2017)
 [A Garcia-garcia, S Orts-escolano] [23pp]  
+* [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://scholar.google.com/scholar?q=%22Computer%20Vision%20for%20Autonomous%20Vehicles%3A%20Problems%2C%20Datasets%20and%20State-of-the-Art%22%20author%3A%22D%20Russo%22 "D Russo, B VAN Roy, A Kazerouni, I Osband") (2017)
+[D Russo, B VAN Roy, A Kazerouni, I Osband] [67pp]  
 
 ### Deep Learning
 
