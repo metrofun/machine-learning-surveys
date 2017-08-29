@@ -634,3 +634,21 @@
       count: 0
       from: 2017
       to: 2017
+- name: 'Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art'
+  author: 'J Janai, F Güney, A Behl, A Geiger'
+  year: 2017
+  categories: ['computer vision', 'reinforcement learning']
+  pages: 14
+  citation:
+      count: 0
+      from: 2017
+      to: 2017
+- name: 'Deep Learning for Video Game Playing'
+  author: 'N Justesen, P Bontrager, J Togelius, S Risi'
+  year: 2017
+  categories: ['deep learning', 'reinforcement learning']
+  pages: 16
+  citation:
+      count: 0
+      from: 2017
+      to: 2017
