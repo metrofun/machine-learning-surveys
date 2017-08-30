@@ -163,6 +163,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [B Pang, L Lee] [94pp]  ⭐
 * [Opinion Mining and Sentiment Analysis](https://scholar.google.com/scholar?q=%22Opinion%20Mining%20and%20Sentiment%20Analysis%22%20author%3A%22B%20Liu%22 "B Liu, L Zhang") (2012)
 [B Liu, L Zhang] [38pp]  
+* [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22G%20Neubig%22 "G Neubig") (2017)
+[G Neubig] [65pp]  
 * [Machine Learning in Automated Text Categorization](https://scholar.google.com/scholar?q=%22Machine%20Learning%20in%20Automated%20Text%20Categorization%22%20author%3A%22F%20Sebastiani%22 "F Sebastiani") (2002)
 [F Sebastiani] [55pp]  
 * [Statistical Machine Translation](https://scholar.google.com/scholar?q=%22Statistical%20Machine%20Translation%22%20author%3A%22P%20Koehn%22 "P Koehn") (2009)

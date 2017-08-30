@@ -652,3 +652,13 @@
       count: 0
       from: 2017
       to: 2017
+
+- name: 'Neural Machine Translation and Sequence-to-sequence Models: A Tutorial'
+  author: 'G Neubig'
+  year: 2017
+  categories: ['natural language processing']
+  pages: 65
+  citation:
+      count: 3
+      from: 2017
+      to: 2017
