@@ -662,3 +662,23 @@
       count: 3
       from: 2017
       to: 2017
+
+- name: 'Deep Learning Techniques for Music Generation'
+  author: 'JP Briot, G Hadjeres, F Pachet '
+  year: 2017
+  categories: ['deep learning']
+  pages: 108
+  citation:
+      count: 0
+      from: 2017
+      to: 2017
+
+- name: 'Machine learning & artificial intelligence in the quantum domain'
+  author: 'V Dunjko, HJ Briegel'
+  year: 2017
+  categories: ['physics']
+  pages: 106
+  citation:
+      count: 0
+      from: 2017
+      to: 2017

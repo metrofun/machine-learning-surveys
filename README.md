@@ -22,6 +22,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 - [Multi-Armed Bandit](#multi-armed-bandit)
 - [Multi-View Learning](#multi-view-learning)
 - [Natural Language Processing](#natural-language-processing)
+- [Physics](#physics)
 - [Probabilistic Models](#probabilistic-models)
 - [Recommender Systems](#recommender-systems)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -113,6 +114,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [A Garcia-garcia, S Orts-escolano] [23pp]  
 * [Deep Learning for Video Game Playing](https://scholar.google.com/scholar?q=%22Deep%20Learning%20for%20Video%20Game%20Playing%22%20author%3A%22N%20Justesen%22 "N Justesen, P Bontrager, J Togelius, S Risi") (2017)
 [N Justesen, P Bontrager, J Togelius, S Risi] [16pp]  
+* [Deep Learning Techniques for Music Generation](https://scholar.google.com/scholar?q=%22Deep%20Learning%20Techniques%20for%20Music%20Generation%22%20author%3A%22JP%20Briot%22 "JP Briot, G Hadjeres, F PACHET ") (2017)
+[JP Briot, G Hadjeres, F PACHET ] [108pp]  
 
 ### Dimensionality Reduction
 
@@ -175,6 +178,11 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [S Karimi, F Scholer, A Turpin] [46pp]  
 * [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22G%20Neubig%22 "G Neubig") (2017)
 [G Neubig] [57pp]  
+
+### Physics
+
+* [Machine Learning & Artificial Intelligence in the Quantum Domain](https://scholar.google.com/scholar?q=%22Machine%20Learning%20%26%20Artificial%20Intelligence%20in%20the%20Quantum%20Domain%22%20author%3A%22V%20Dunjko%22 "V Dunjko, HJ Briegel") (2017)
+[V Dunjko, HJ Briegel] [106pp]  
 
 ### Probabilistic Models
 
