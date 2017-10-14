@@ -164,6 +164,8 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [R Collobert] [45pp]  ⭐
 * [Opinion Mining and Sentiment Analysis](https://scholar.google.com/scholar?q=%22Opinion%20Mining%20and%20Sentiment%20Analysis%22%20author%3A%22B%20Pang%22 "B Pang, L Lee") (2008)
 [B Pang, L Lee] [94pp]  ⭐
+* [Survey of the State of the Art in Natural Language Generation: Core Tasks, Applications and Evaluation](https://scholar.google.com/scholar?q=%22Survey%20of%20the%20State%20of%20the%20Art%20in%20Natural%20Language%20Generation%3A%20Core%20Tasks%2C%20Applications%20and%20Evaluation%22%20author%3A%22A%20Gatt%22 "A Gatt, E Krahmer") (2017)
+[A Gatt, E Krahmer] [111pp]  ⭐
 * [Opinion Mining and Sentiment Analysis](https://scholar.google.com/scholar?q=%22Opinion%20Mining%20and%20Sentiment%20Analysis%22%20author%3A%22B%20Liu%22 "B Liu, L Zhang") (2012)
 [B Liu, L Zhang] [38pp]  
 * [Neural Machine Translation and Sequence-to-Sequence Models: A Tutorial](https://scholar.google.com/scholar?q=%22Neural%20Machine%20Translation%20and%20Sequence-to-Sequence%20Models%3A%20A%20Tutorial%22%20author%3A%22G%20Neubig%22 "G Neubig") (2017)

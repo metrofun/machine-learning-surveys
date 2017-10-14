@@ -682,3 +682,13 @@
       count: 0
       from: 2017
       to: 2017
+
+- name: 'Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation'
+  author: 'A Gatt, E Krahmer'
+  year: 2017
+  categories: ['natural language processing']
+  pages: 111
+  citation:
+      count: 7
+      from: 2017
+      to: 2017
