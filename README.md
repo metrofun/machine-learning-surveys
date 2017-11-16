@@ -19,6 +19,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 - [Dimensionality Reduction](#dimensionality-reduction)
 - [Ensemble Learning](#ensemble-learning)
 - [Metric Learning](#metric-learning)
+- [Monte Carlo](#monte-carlo)
 - [Multi-Armed Bandit](#multi-armed-bandit)
 - [Multi-View Learning](#multi-view-learning)
 - [Natural Language Processing](#natural-language-processing)
@@ -137,6 +138,11 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 [A Bellet] [59pp]  
 * [Metric Learning: A Survey](https://scholar.google.com/scholar?q=%22Metric%20Learning%3A%20A%20Survey%22%20author%3A%22B%20Kulis%22 "B Kulis") (2012)
 [B Kulis] [80pp]  
+
+### Monte Carlo
+
+* [Geometric Integrators and the Hamiltonian Monte Carlo Method](https://scholar.google.com/scholar?q=%22Geometric%20Integrators%20and%20the%20Hamiltonian%20Monte%20Carlo%20Method%22%20author%3A%22N%20Bou-rabee%22 "N Bou-rabee, JM Sanz-serna") (2017)
+[N Bou-rabee, JM Sanz-serna] [92pp]  
 
 ### Multi-Armed Bandit
 

@@ -692,3 +692,13 @@
       count: 7
       from: 2017
       to: 2017
+
+- name: 'Geometric integrators and the Hamiltonian Monte Carlo method'
+  author: 'N Bou-Rabee, JM Sanz-Serna'
+  year: 2017
+  categories: ['Monte Carlo']
+  pages: 92
+  citation:
+      count: 0
+      from: 2017
+      to: 2017
