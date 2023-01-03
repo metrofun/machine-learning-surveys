@@ -42,6 +42,9 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 
 ### Algorithms
 
+* [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth "V Smolyakov") (2023)
+[V Smolyakov] [325pp]  📚  
+
 ### Bioinformatics
 
 * [Introduction to Bioinformatics](https://scholar.google.com/scholar?q=%22Introduction%20to%20Bioinformatics%22%20author%3A%22A%20Lesk%22 "A Lesk") (2013)
