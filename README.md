@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 ## Table of Contents
 
 - [Active Learning](#active-learning)
+- [Algorithms](#algorithms)
 - [Bioinformatics](#bioinformatics)
 - [Classification](#classification)
 - [Clustering](#clustering)
@@ -38,6 +39,11 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 
 * [Active Learning Literature Survey](https://scholar.google.com/scholar?q=%22Active%20Learning%20Literature%20Survey%22%20author%3A%22B%20Settles%22 "B Settles") (2010)
 [B Settles] [67pp]  
+
+### Algorithms
+
+* [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth "V Smolyakov") (2023)
+[V Smolyakov] [325pp]  📚  
 
 ### Bioinformatics
 
