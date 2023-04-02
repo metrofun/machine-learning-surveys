@@ -264,3 +264,7 @@ If you want to contribute to this list (please do), check [How to Contribute](ht
 * [Tutorial on Variational Autoencoders](https://scholar.google.com/scholar?q=%22Tutorial%20on%20Variational%20Autoencoders%22%20author%3A%22C%20Doersch%22 "C Doersch") (2016)
 [C Doersch] [65pp]  ⭐
 
+### Hyperparameter Optimization
+
+* [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://scholar.google.com/scholar?hl=en&q=On+Hyperparameter+Optimization+of+Machine+Learning+Algorithms:+Theory+and+Practice&as_sdt=0 "L Yang, A Shami") (2016)
+[L Yang, A Shami] [69pp]  ⭐
